@@ -1,0 +1,22 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "Testes atuomatizados na tela de login Auth0 com cypres | Cris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maltajohnny/cypress-test.git"
+  },
+  "author": "JOHNNY MALTA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maltajohnny/cypress-test/issues"
+  },
+  "homepage": "https://github.com/maltajohnny/cypress-test#readme",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}
